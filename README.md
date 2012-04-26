@@ -1,0 +1,1 @@
+Empty project with sbt-idea included
